@@ -8,6 +8,8 @@ Platform Context: ServiceNow
 
 
 Target Roles: ServiceNow Product Owner / Functional PO / BA–PO Hybrid
+
+
 1.**Problem Statement (Business Context)**
 
 Mental health counselling platforms face high operational load, missed appointments, slow issue resolution, and poor internal coordination between counsellors, HR, IT, and support teams.
@@ -23,27 +25,42 @@ No centralized knowledge base
 2.**Product Vision**
 Build a scalable, ITSM-enabled mental health counselling platform that ensures timely service delivery, SLA compliance, and seamless stakeholder coordination using ServiceNow-style workflows.
 
-3️⃣ Stakeholders
+3.**Stakeholders**
+
+
 End Users (Patients / Students / Employees)
 Counsellors & Therapists
 HR Team
 IT & Platform Support
 Product & Operations Leadership
-4️⃣ ITSM MODULES – PO-LEVEL DESIGN
-🔹 ITSM (CORE – MUST)
+
+
+4. **ITSM MODULES**
+
+ ITSM (CORE – MUST)
+
 A. Incident Management
+
 Use Case:
+
 App crash during live counselling
 Audio/video failure in session
 Crisis session not connecting
-PO Talking Points
+
 Incident = unplanned service disruption
+
 Priority based on impact × urgency
+
 Critical incidents auto-escalated
+
 SLA clocks triggered immediately
+
 Business Impact of Delay
+
 Client distress
+
 Legal/compliance risk
+
 Brand trust erosion
 B. Problem Management
 Use Case:
