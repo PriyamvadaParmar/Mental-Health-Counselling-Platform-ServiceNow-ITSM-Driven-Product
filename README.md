@@ -1,21 +1,28 @@
 # Mental-Health-Counselling-Platform-ServiceNow-ITSM-Driven-Product
 
-📘 Portfolio Project
+Portfolio Project
 Mental Health Counselling Platform – ServiceNow ITSM–Driven Product
 Role: Product Owner
 Domain: Mental Health + Enterprise ITSM
 Platform Context: ServiceNow
+
+
 Target Roles: ServiceNow Product Owner / Functional PO / BA–PO Hybrid
-1️⃣ Problem Statement (Business Context)
+1.**Problem Statement (Business Context)**
+
 Mental health counselling platforms face high operational load, missed appointments, slow issue resolution, and poor internal coordination between counsellors, HR, IT, and support teams.
 Business Pain Points
-Missed or delayed counselling sessions
-Poor SLA adherence for crisis cases
+
+**Missed or delayed counselling sessions
+Poor SLA adherence for crisis cases**
+
 No structured request or escalation process
 HR struggles with counsellor onboarding & burnout tracking
 No centralized knowledge base
-2️⃣ Product Vision
+
+2.**Product Vision**
 Build a scalable, ITSM-enabled mental health counselling platform that ensures timely service delivery, SLA compliance, and seamless stakeholder coordination using ServiceNow-style workflows.
+
 3️⃣ Stakeholders
 End Users (Patients / Students / Employees)
 Counsellors & Therapists
