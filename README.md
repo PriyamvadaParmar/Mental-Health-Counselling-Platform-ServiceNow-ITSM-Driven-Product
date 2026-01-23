@@ -55,32 +55,50 @@ Critical incidents auto-escalated
 
 SLA clocks triggered immediately
 
-Business Impact of Delay
+**Business Impact of Delay**
 
 Client distress
 
 Legal/compliance risk
 
 Brand trust erosion
+
+
 B. Problem Management
+
 Use Case:
+
 Repeated session drops
+
 Frequent login failures for counsellors
+
+
 PO Talking Points
+
+
 Problem = root cause behind multiple incidents
 RCA performed
 Permanent fix backlog item created
 Prevents recurring incidents
+
+
 C. Change Management
+
 Use Case:
 Deploying new assessment form
+
 Integrating telehealth API
+
 Updating crisis escalation rules
+
 PO Talking Points
+
 Change = controlled modification
 CAB approval
 Risk assessment before release
 Minimizes service disruption
+
+
 D. Service Requests
 Use Case
 Request counselling session
@@ -90,42 +108,53 @@ PO Talking Points
 Predictable, user-initiated requests
 Predefined workflows
 Faster turnaround than incidents
+
 E. SLAs & Workflows
+
 Service	SLA
 Crisis Session	15 mins
 Normal Appointment	24 hrs
 Tech Issue	2 hrs
+
+
 PO Talking Points
 SLA breach alerts
 Priority routing
 Real-time dashboards
+
 Business outcome: trust + reliability
-🔹 HRSD (BASIC – SUPPORTING)
+
+HRSD (BASIC – SUPPORTING)
 A. Employee Case Management
 Use Case
 Counsellor onboarding
 Burnout or workload issues
 Leave or certification renewal
+
 PO Talking Points
 Confidential case handling
 HR visibility
 Faster resolution
 Improved counsellor retention
+
 B. Knowledge Articles
 Use Case
 Self-help resources
 Crisis protocols
 Platform usage guides
+
 PO Talking Points
 Reduces tickets
 Empowers users
 Improves first-contact resolution
+
 C. Service Portal
 Use Case
 Single entry point for users
 Session booking
 Issue reporting
 Knowledge access
+
 PO Talking Points
 Improved UX
 Reduced dependency on support
@@ -182,7 +211,9 @@ Translated business needs into functional specifications and user stories
 Led UAT cycles and validated solutions against acceptance criteria
 Acted as bridge between business stakeholders and technical teams
 Designed ITSM-aligned enterprise workflows for a mental health services platform
-9️⃣ HOW TO PRESENT THIS (IMPORTANT)
+
+
+HOW TO PRESENT THIS (IMPORTANT)
 You can show this as:
 Notion / PDF case study
 GitHub README
