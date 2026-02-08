@@ -21,6 +21,8 @@ Target Roles: ServiceNow Product Owner / Functional PO / BA–PO Hybrid
 1.**Problem Statement (Business Context)**
 
 Mental health counselling platforms face high operational load, missed appointments, slow issue resolution, and poor internal coordination between counsellors, HR, IT, and support teams.
+
+
 Business Pain Points
 
 **Missed or delayed counselling sessions
