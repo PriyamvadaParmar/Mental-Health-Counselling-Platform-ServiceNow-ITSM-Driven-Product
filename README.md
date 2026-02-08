@@ -39,7 +39,7 @@ Product & Operations Leadership
 
  ITSM (CORE – MUST)
 
-A. Incident Management
+**A. Incident Management**
 
 Use Case:
 
@@ -64,7 +64,7 @@ Legal/compliance risk
 Brand trust erosion
 
 
-B. Problem Management
+**B. Problem Management**
 
 Use Case:
 
@@ -76,13 +76,13 @@ Frequent login failures for counsellors
 PO Talking Points
 
 
-Problem = root cause behind multiple incidents
+**Problem = root cause behind multiple incidents
 RCA performed
 Permanent fix backlog item created
-Prevents recurring incidents
+Prevents recurring incidents**
 
 
-C. Change Management
+**C. Change Management**
 
 Use Case:
 Deploying new assessment form
@@ -99,17 +99,21 @@ Risk assessment before release
 Minimizes service disruption
 
 
-D. Service Requests
+**D. Service Requests**
+
 Use Case
+
 Request counselling session
 Request emergency escalation
 Request therapist change
+
+
 PO Talking Points
 Predictable, user-initiated requests
 Predefined workflows
 Faster turnaround than incidents
 
-E. SLAs & Workflows
+**E. SLAs & Workflows**
 
 Service	SLA
 Crisis Session	15 mins
@@ -122,10 +126,12 @@ SLA breach alerts
 Priority routing
 Real-time dashboards
 
-Business outcome: trust + reliability
+**Business outcome: trust + reliability**
 
 HRSD (BASIC – SUPPORTING)
-A. Employee Case Management
+
+**A. Employee Case Management**
+
 Use Case
 Counsellor onboarding
 Burnout or workload issues
@@ -137,7 +143,7 @@ HR visibility
 Faster resolution
 Improved counsellor retention
 
-B. Knowledge Articles
+**B. Knowledge Articles**
 Use Case
 Self-help resources
 Crisis protocols
@@ -148,7 +154,7 @@ Reduces tickets
 Empowers users
 Improves first-contact resolution
 
-C. Service Portal
+**C. Service Portal**
 Use Case
 Single entry point for users
 Session booking
@@ -159,8 +165,10 @@ PO Talking Points
 Improved UX
 Reduced dependency on support
 Higher adoption
-🔹 SERVICE CATALOG (CRITICAL)
-Request Types
+
+
+**SERVICE CATALOG (CRITICAL)**
+Request Types:
 Book Counselling Session
 Emergency Escalation
 Therapist Assignment Change
@@ -173,54 +181,53 @@ Approval (if needed)
 Fulfilment
 SLA tracking
 Closure & feedback
+
+
 PO Talking Points
 Catalog standardizes demand
 Reduces chaos
 Improves predictability
-5️⃣ PRODUCT BACKLOG (PO-OWNED)
-Epics
+
+
+**PRODUCT BACKLOG (PO-OWNED)**
+**Epics**
+
 Incident Management Enablement
 Counselling Request Automation
 Crisis Escalation Workflow
 HRSD Counsellor Management
-Knowledge & Self-Service
-Sample User Story
-As a user in emotional distress, I want my counselling session issues resolved within SLA so that I feel supported and safe.
-Acceptance Criteria
+Knowledge base & Self-Service
+
+**Sample User Story**
+1.As a user in emotional distress, I want my counselling session issues resolved within SLA so that I feel supported and safe.
+
+**Acceptance Criteria**
 Incident auto-created
 Priority = Critical
 Escalation within 15 mins
 Notification sent
-6️⃣ UAT STRATEGY (INTERVIEW GOLD)
+
+**UAT STRATEGY**
 UAT scenarios mapped to real-life counselling situations
+
 Business users validate:
 SLA accuracy
 Escalation behavior
 User experience
 Defect tracking
 Go-live sign-off checklist
-7️⃣ METRICS & KPIs
+
+**METRICS & KPIs**
 SLA adherence %
 Incident resolution time
 Crisis response success rate
 User satisfaction
 Counsellor workload balance
-8️⃣ RESUME BULLETS (USE THESE EXACTLY)
+
+
 Owned functional backlog and prioritized features based on business value
 Translated business needs into functional specifications and user stories
 Led UAT cycles and validated solutions against acceptance criteria
 Acted as bridge between business stakeholders and technical teams
 Designed ITSM-aligned enterprise workflows for a mental health services platform
 
-
-HOW TO PRESENT THIS (IMPORTANT)
-You can show this as:
-Notion / PDF case study
-GitHub README
-Interview walkthrough
-LinkedIn featured project
-🔥 Why This Project Works
-Shows domain depth
-Shows ServiceNow ITSM understanding
-Shows PO ownership
-Differentiates you from generic BAs
